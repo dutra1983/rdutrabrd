@@ -1,3 +1,2 @@
 # rdutrabrd
-iniciante que deseja facilitar o dia a dia no serviço
-mexo com muitas contas
+branch - ramificações são utilizadas enquanto se edita, inclusive compartilhado
